@@ -1,0 +1,3 @@
+([('eval_genomes',
+   '/Users/maya/repo/jetpack2/dist/eval_genomes',
+   'EXECUTABLE')],)
