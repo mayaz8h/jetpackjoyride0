@@ -52,4 +52,4 @@ If running the demo game works, you're good to go.
 NEAT-Python is a package that implements the NEAT (Neuro-Evolution of Augmenting Topologies) algorithm. The algorithm will be used to teach the machine how to play the game you develop.
 ```
 pip install neat-python
-``` 
+``` # jetpackjoyride0
